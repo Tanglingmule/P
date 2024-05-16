@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    border: 5px solid rgb(214, 214, 214);
+    width: fit-content;
+    height: 70px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+img {
+    width: 70px;
+}
+
+#graphic-p{
+    position: relative;
+    top: 100px;
+    right: 140px;
+}
